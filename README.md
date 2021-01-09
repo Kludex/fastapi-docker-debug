@@ -1,7 +1,5 @@
 <h1 align="center">
-
     <strong>Debug FastAPI Applications on Docker 🐋</strong>
-
 </h1>
 
 This is a very simple demonstration on how to debug your FastAPI application via Docker container. 😎
