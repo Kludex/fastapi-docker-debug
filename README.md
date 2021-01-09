@@ -21,13 +21,11 @@ Build and run your docker-compose with the following command:
 docker-compose -f docker-compose.debug.yaml up
 ```
 
-Ok, what's happening? Looks like the process is hanging, did I do something wrong?
+Ok, what's happening? Looks like the process is hanging, but don't worry!
 
-NO!!! Calm down.
+**Go to your VSCode** and press **F5**.
 
-Now that the execution is hanging, **go to your VSCode** and press **F5**.
-
-Our debugger is connected! You now can add [breaking points](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2019) and debug your applications! 😙
+At this point, our debugger is connected! You now can add [breaking points](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2019) and debug your applications! 😙
 
 ## License 📖
 
