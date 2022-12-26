@@ -1,3 +1,6 @@
+> **Warning**
+> Now that [VSCode natevily supports FastAPI for debugging purposes](https://github.com/microsoft/vscode-python/issues/14247), I'll archive this project. 
+
 <h1 align="center">
     <strong>Debug FastAPI Applications on Docker 🐋</strong>
 </h1>
